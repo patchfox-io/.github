@@ -1,4 +1,4 @@
-# PatchFox!
+# PatchFox 🦊
 
 ## what is PatchFox?
 PatchFox is genAI for dependency management.
